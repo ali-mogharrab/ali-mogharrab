@@ -1,21 +1,15 @@
 # Ali Mogharrab
 
-- 🎓 Computer Engineering graduate with a strong interest in backend development and problem solving.
+- 🎓 Computer Engineering graduate and Software Engineer with experience in backend development, AI integration, and data-intensive applications.
 
-- 🌱 Currently improving my skills in Django, REST APIs, and Machine Learning.
+- 💻 I build scalable backend systems, REST APIs, and reliable software infrastructure.
 
-- 💡 Enjoy working on algorithmic challenges and building scalable backend systems.
+- 🌱 Interested in AI infrastructure, machine learning systems, and distributed systems.
 
-- 👯 Open to collaborating on backend and machine learning projects.
+- 🤝 Open to collaborating on software engineering and AI projects.
 
 ## ⚙️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,django,fastapi,react,postgres,mysql,redis,docker,linux,git,githubactions" height="40" alt="Python, C++, TypeScript, JavaScript, Django, FastAPI, React, PostgreSQL, MySQL, Redis, Docker, Linux, Git, GitHub Actions" />
 </p>
